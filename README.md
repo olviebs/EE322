@@ -24,10 +24,15 @@
 
 Here's a picture of someone who constantly inspires me to be the best version of myself, his name is
 
-#Jerma985
+# Jerma985 :D
 
 ![tumblr_d817e8f6d47bc5bf2e0575dbbd9ea65f_87c9a8f8_540](https://github.com/olviebs/EE322/assets/92970891/fe3dd64f-4385-4b49-8f94-026cd403d988)
 
+---
+
+Finally, here I'd like to share something that is near and dear to my heart. Redshift is the Stevens Creative Media Publication. I help run this organization, and our work can be accessed here!
+
+[Redshift] (https://redshiftpub.com/)
   
 
 

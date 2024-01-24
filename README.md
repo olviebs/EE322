@@ -22,9 +22,11 @@
   ---
 
 Here's a picture of someone who constantly inspires me to be the best version of myself, his name is
+
 #Jerma985
 
-![alt text](jerma985.jpg)
+![jerma985](![tumblr_d817e8f6d47bc5bf2e0575dbbd9ea65f_87c9a8f8_540](https://github.com/olviebs/EE322/assets/92970891/97110b29-a39f-4640-9bfb-185813089ffc)
+)
   
 
 

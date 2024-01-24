@@ -15,7 +15,8 @@
 - soup
 
   **furthermore**, here's some code
-  'System.out.println("hello! Wats good gang");'
+
+  `System.out.println("hello! Wats good gang");`
 
   *perchance* you'd like to see more,
   
@@ -25,8 +26,8 @@ Here's a picture of someone who constantly inspires me to be the best version of
 
 #Jerma985
 
-![jerma985](![tumblr_d817e8f6d47bc5bf2e0575dbbd9ea65f_87c9a8f8_540](https://github.com/olviebs/EE322/assets/92970891/97110b29-a39f-4640-9bfb-185813089ffc)
-)
+![tumblr_d817e8f6d47bc5bf2e0575dbbd9ea65f_87c9a8f8_540](https://github.com/olviebs/EE322/assets/92970891/fe3dd64f-4385-4b49-8f94-026cd403d988)
+
   
 
 
